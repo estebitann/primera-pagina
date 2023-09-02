@@ -1,5 +1,3 @@
-<html>
-	
 	<head>
 		
 		<title>Primer pagina web :D</title>
@@ -146,5 +144,3 @@
 		</footer>
 
 	</body>
-
-</html>
