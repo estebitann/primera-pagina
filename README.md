@@ -1,25 +1,23 @@
 <html>
-	<head>		
-
-		<title>Primer pagina web :D</title>		
-		 <link rel="stylesheet" href="css\estilos.css" />		
-		<link rel="shortcut icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sidZvqZV1xVzkkAg-mKquPdvTqd8jveGjnPnY-LNw8C0ehqxOO4us0G_3EiL_XulE-c&amp;usqp=CAU.jpg" />	
-		<meta name="description" content="El 25 de mayo de 1810 marcó un antes y un después en la historia nacional.En un escenario de fuerte crisis de la monarquía española, que se venía desarrollando desde principios de 1800, se produjo la Revolución de Mayo, el primer intento de crear un gobierno integrado por los criollos.Hacia 1810 nuestro territorio formaba parte del Virreinato del Río de la Plata, junto a los actuales países de Bolivia, Paraguay y Uruguay, bajo el gobierno de la Corona española. España estaba en crisis." />	
-	
- </head>	
-		<body>	
-			<header>
-				<div>	
-			<center><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/25_de_mayo_por_F._Fortuny.jpg" alt="imagen del 25 de Mayo" width="300"/></center>			
-			</div>				
+	<head>
+		<title>Primer pagina web :D</title>
+		 <link rel="stylesheet" href="css\estilos.css" />
+		<link rel="shortcut icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sidZvqZV1xVzkkAg-mKquPdvTqd8jveGjnPnY-LNw8C0ehqxOO4us0G_3EiL_XulE-c&amp;usqp=CAU.jpg" />
+		<meta name="description" content="El 25 de mayo de 1810 marcó un antes y un después en la historia nacional.En un escenario de fuerte crisis de la monarquía española, que se venía desarrollando desde principios de 1800, se produjo la Revolución de Mayo, el primer intento de crear un gobierno integrado por los criollos.Hacia 1810 nuestro territorio formaba parte del Virreinato del Río de la Plata, junto a los actuales países de Bolivia, Paraguay y Uruguay, bajo el gobierno de la Corona española. España estaba en crisis." />
+	</head>
+	<body>
+		<header>
+			<div>
+			<center><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/25_de_mayo_por_F._Fortuny.jpg" alt="imagen del 25 de Mayo" width="300" /></center>
+			</div>			
 				<nav>
-					<h2><ul>					
+    <h2><ul>						
 							<li><a target="_blank" href="https://www.youtube.com/watch?v=KkxU0j65O_Q">LA REVOLUCIÓN DE MAYO en minutos</a></li>
 							<li><a target="_blank" href="https://www.youtube.com/watch?v=KEgXklGawy4">La Revolución de Mayo de 1810 (Argentina): causas, desarrollo, consecuencias, personajes</a></li>
 							<li><a target="_blank" href="https://www.youtube.com/watch?v=zoNrpC0yBSg">¿Que paso el 25 de mayo?</a></li>
-						&lt;&gt;</ul>
-			&lt;&gt;
-		&lt;&gt;	
+						&lt;/h2&gt;</ul>
+			&lt;/nav&gt;
+		&lt;/header&gt;
 		<section class="wrapper">
 			<section class="main">
 				<article>
@@ -75,7 +73,7 @@
 	&lt;/body&gt;
  &lt;/html&gt;
 </h2></nav></header></body></html>
-    </div>
+</div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
