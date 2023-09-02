@@ -17,7 +17,7 @@
 							<li><a target="_blank" href="https://www.youtube.com/watch?v=KkxU0j65O_Q">LA REVOLUCIÓN DE MAYO en minutos</a></li>
 							<li><a target="_blank" href="https://www.youtube.com/watch?v=KEgXklGawy4">La Revolución de Mayo de 1810 (Argentina): causas, desarrollo, consecuencias, personajes</a></li>
 							<li><a target="_blank" href="https://www.youtube.com/watch?v=zoNrpC0yBSg">¿Que paso el 25 de mayo?</a></li>
-						&lt;/h2&gt;</ul>
+						&lt;</h2>&gt;</ul>
 			&lt;/nav&gt;
 		&lt;/header&gt;	
 		<section class="wrapper">
