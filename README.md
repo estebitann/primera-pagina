@@ -41,15 +41,17 @@
       <h1><a href="https://estebitann.github.io/mi-primera-pagina/">mi-primera-pagina</a></h1>
 <html>
 	<head>		
+
 		<title>Primer pagina web :D</title>		
 		 <link rel="stylesheet" href="css\estilos.css" />		
 		<link rel="shortcut icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sidZvqZV1xVzkkAg-mKquPdvTqd8jveGjnPnY-LNw8C0ehqxOO4us0G_3EiL_XulE-c&amp;usqp=CAU.jpg" />	
 		<meta name="description" content="El 25 de mayo de 1810 marcó un antes y un después en la historia nacional.En un escenario de fuerte crisis de la monarquía española, que se venía desarrollando desde principios de 1800, se produjo la Revolución de Mayo, el primer intento de crear un gobierno integrado por los criollos.Hacia 1810 nuestro territorio formaba parte del Virreinato del Río de la Plata, junto a los actuales países de Bolivia, Paraguay y Uruguay, bajo el gobierno de la Corona española. España estaba en crisis." />	
-	</head>	
+	
+ </head>	
 		<body>	
 			<header>
 				<div>	
-			<center><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/25_de_mayo_por_F._Fortuny.jpg" alt="imagen del 25 de Mayo" width="300" /></center>			
+			<center><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/25_de_mayo_por_F._Fortuny.jpg" alt="imagen del 25 de Mayo" width="300"/></center>			
 			</div>				
 				<nav>
 					<h2><ul>					
