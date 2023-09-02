@@ -11,7 +11,6 @@ h2,a{
 		color:red;
 	}
 
-<html>
 	<head>
 		
 		<title>Primer pagina web :D</title>
