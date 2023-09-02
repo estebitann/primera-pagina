@@ -1,3 +1,16 @@
+body{
+	background:black;
+	color:yellow;
+	}
+
+h2,a{
+	color:green;
+	}
+	<!--*{margin:0; padding:0;}-->
+	#x{
+		color:red;
+	}
+
 <html>
 	<head>
 		
