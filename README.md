@@ -69,5 +69,8 @@
 				Esteban Cabrera, mi primera pagina web 1/9/2023
 			</p>
 		</footer>
+						</h2>
+				</nav>
+		</header>
 	</body>
 </html>
