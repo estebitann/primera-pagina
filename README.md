@@ -26,7 +26,7 @@
 						En 1808 había sido invadida por los ejércitos de Napoleón Bonaparte, y el rey Fernando VII, antes de ser tomado prisionero en Bayona, tuvo que ceder el trono a los franceses.
 						Una sucesión de gobiernos trataron de hacerse cargo del difícil momento, pero con el transcurso de los meses la situación se fue tornando cada más frágil. A principios de 1810, se formó en Cádiz un Concejo de Regencia, con el fin de resistir el asedio francés.
 						En una Buenos Aires, ya convulsionada por las recientes invasiones inglesas, las noticias que llegaban del viejo continente causaban preocupación.
-						Cuando en mayo de 1810 llegó la novedad sobre la formación del Concejo de Regencia, un grupo de vecinos criollos convocó a un cabildo abierto para el 22 de mayo.
+						Cuando en mayo de 1810 llegó la novedad sobre la formación del Concejo de Regencia, un grupo de vecinos criollos convocó a un cabildo abierto para el 22 de mayo..
 						En las ciudades coloniales, los cabildos cumplían un rol decisivo en relación al gobierno.
 						Los debates giraban en torno a la continuidad o no del virrey Baltasar Hidalgo de Cisneros, aunque él no estaba dispuesto a perder el poder, y maniobró para presidir una Junta de Gobierno.
 					</p>
