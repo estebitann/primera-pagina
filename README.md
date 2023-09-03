@@ -6,7 +6,7 @@
 	</head>
 		<header>
 			<div>
-			<center><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/25_de_mayo_por_F._Fortuny.jpg" alt="imagen del 25 de Mayo" width="300"/></center>
+				<center><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/25_de_mayo_por_F._Fortuny.jpg" alt="imagen del 25 de Mayo" width="300"/></center>
 			</div>			
 				<nav>
 						<h2><ul>		
