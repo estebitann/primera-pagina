@@ -13,8 +13,7 @@
 			<center><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/25_de_mayo_por_F._Fortuny.jpg" alt="imagen del 25 de Mayo" width="300"/></center>
 			</div>	
 				<nav>
-					<h2><ul>
-								
+					<h2><ul>								
 			<li><a target="_blank" href="https://www.youtube.com/watch?v=KkxU0j65O_Q">LA REVOLUCIÓN DE MAYO en minutos</a></li>
 							<li><a target="_blank" href="https://www.youtube.com/watch?v=KEgXklGawy4">La Revolución de Mayo de 1810 (Argentina): causas, desarrollo, consecuencias, personajes</a></li>
 							<li><a target="_blank" href="https://www.youtube.com/watch?v=zoNrpC0yBSg">¿Que paso el 25 de mayo?</a></li>
