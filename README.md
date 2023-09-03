@@ -4,7 +4,6 @@
 		<link rel="shortcut icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sidZvqZV1xVzkkAg-mKquPdvTqd8jveGjnPnY-LNw8C0ehqxOO4us0G_3EiL_XulE-c&usqp=CAU.jpg">
 		<meta name="description" content="El 25 de mayo de 1810 marcó un antes y un después en la historia nacional.En un escenario de fuerte crisis de la monarquía española, que se venía desarrollando desde principios de 1800, se produjo la Revolución de Mayo, el primer intento de crear un gobierno integrado por los criollos.Hacia 1810 nuestro territorio formaba parte del Virreinato del Río de la Plata, junto a los actuales países de Bolivia, Paraguay y Uruguay, bajo el gobierno de la Corona española. España estaba en crisis."/>
 	</head>
-	<body>
 		<header>
 			<div>
 			<center><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/25_de_mayo_por_F._Fortuny.jpg" alt="imagen del 25 de Mayo" width="300"/></center>
@@ -14,8 +13,8 @@
 							<li><a target="_blank" href="https://www.youtube.com/watch?v=KkxU0j65O_Q">LA REVOLUCIÓN DE MAYO en minutos</a></li>
 							<li><a target="_blank" href="https://www.youtube.com/watch?v=KEgXklGawy4">La Revolución de Mayo de 1810 (Argentina): causas, desarrollo, consecuencias, personajes</a></li>
 							<li><a target="_blank" href="https://www.youtube.com/watch?v=zoNrpC0yBSg">¿Que paso el 25 de mayo?</a></li>
-						</h2></ul>
-			</nav>
+						</ul></h2>
+				</nav>	
 		</header>
 		<section class="wrapper">
 			<section class="main">
@@ -69,8 +68,5 @@
 				Esteban Cabrera, mi primera pagina web 1/9/2023
 			</p>
 		</footer>
-						</h2>
-				</nav>
-		</header>
-	</body>
+				
 </html>
