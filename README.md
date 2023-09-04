@@ -2,9 +2,6 @@
 	<head>
 
 		
-  <title>Algo</title>
-
-		
   <link rel="stylesheet" href="css\estilos.css"/>
 
 		
