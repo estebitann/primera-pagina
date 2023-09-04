@@ -1,9 +1,9 @@
 	body{
 		background:black;
-		color:yellow;
+		color:red;
 		}
-
-	h2,a{
-		color:green;
-		}
+	h2{
+		color:white;
+		
+	}	
 <!--*{margin:0; padding:0;}-->
