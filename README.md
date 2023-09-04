@@ -2,7 +2,7 @@
 	<head>
 
 		
-  <link rel="stylesheet" type="text/css" href="estilos.css"/>
+  <link rel="stylesheet" type="text/css" href="css\estilos.css"/>
 
 		
   <link rel="shortcut icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sidZvqZV1xVzkkAg-mKquPdvTqd8jveGjnPnY-LNw8C0ehqxOO4us0G_3EiL_XulE-c&usqp=CAU.jpg">
