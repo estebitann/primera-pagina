@@ -1,9 +1,12 @@
-	body{
-		background:black;
-		color:red;
-		}
-	h2{
-		color:white;
-		
-	}	
-<!--*{margin:0; padding:0;}-->
+p{
+  color: blue
+}
+h2{
+  color: yellow
+}
+body{
+  background-color: pink
+}
+h6{
+  color:yellowgreen
+}
